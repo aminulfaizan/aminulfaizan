@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aminulfaizan
 - 👀 I’m interested in A.I
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning DeepLearning and NLP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
